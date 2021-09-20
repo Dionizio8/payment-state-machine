@@ -1,6 +1,5 @@
-#Payment - Spring State Machine 
-Project elaborated with study elaboration
-
+# Payment - Spring State Machine 
+POC Payment - Spring State Machine
 ## Reverence
 The project was developed following the **`Spring Framework Guru`** channel tutorial : 
 * [Getting Started with Spring State Machine](https://www.youtube.com/watch?v=A-dVgRV5-Bw)
